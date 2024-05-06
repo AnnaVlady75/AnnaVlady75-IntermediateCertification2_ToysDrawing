@@ -1,0 +1,4 @@
+3,Puzzles
+3,Doll
+1,PlayStation
+4,Machine on the control panel
